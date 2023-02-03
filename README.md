@@ -10,10 +10,10 @@ The code has been tested on the Windows platform.
 * dataset.mat: Adjacency matrixes A; The integrated miRNA similarity SM; The integrated disease similarity SD;
 
 # Functions Description
-* ```DLP.m```: this function can implement the DLP algorithm;
+* ```demo.m```: this function can implement the DLP algorithm;
 
 # Train and test folds
 
-run ```DLP.m```
+run ```demo.m```
 
 All files of Data and Code should be stored in the same folder to run the model.
